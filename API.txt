@@ -1,0 +1,4 @@
+Projeto feito no simulador Wokwi!
+Resfriamento de ambiente através de ativação por API!
+
+https://wokwi.com/projects/331732890799833682
